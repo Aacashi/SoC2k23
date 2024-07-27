@@ -12,7 +12,7 @@ This repository contains code and analysis for creating and managing an investme
 **Portfolio Construction:** Algorithms to select securities and allocate funds based on momentum signals.<br>
 **Backtesting:** Tools to evaluate the performance of the momentum-based portfolio using historical data.<br>
 **Visualization:** Graphs and charts to visualize momentum signals, portfolio composition, and performance metrics.<br>
-Find the code on Google Collab: [link](https://colab.research.google.com/drive/1gX2GgfX15pU6QdhlL68_g79ih4K0GoHW)
+Find the code on Google Collab: [link](https://colab.research.google.com/drive/1gX2GgfX15pU6QdhlL68_g79ih4K0GoHW) <br>
 **Task3 - WorldQuant Brain:** <br>
 Link: [link](https://www.worldquant.com/brain/)
 
